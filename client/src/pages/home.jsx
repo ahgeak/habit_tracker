@@ -1,8 +1,10 @@
 const Home = () => {
-  return 
+  return (
     <div>
         {/* elements that I will display */}
-    </div>;
+        <p>Testing</p>
+    </div>
+    );
 };
 
 export default Home;
